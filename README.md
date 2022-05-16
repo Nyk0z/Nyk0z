@@ -1,4 +1,4 @@
-- Hello. Im Nyk0z. You wont find me anywhere. I'm behind the web
+- Hello. Im Nyk0z. You wont find me anywhere.
 
 - There is no other way (except GitHub) to reach me.
 
