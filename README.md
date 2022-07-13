@@ -1,6 +1,4 @@
-- Hello. Im Nyk0z. You wont find me anywhere.
-
-- There is no other way (except GitHub) to reach me.
+- Hello. I'm Nykoz.
 
 <!---
 Nyk0z/Nyk0z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
